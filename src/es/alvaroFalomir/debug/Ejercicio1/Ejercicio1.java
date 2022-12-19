@@ -2,7 +2,7 @@ package es.alvaroFalomir.debug.Ejercicio1;
 
 import java.util.Scanner;
 
-/*
+/* Argentina Campeon
  * Realiza un programa que a partir de un número n escriba la siguiente secuencia hacia
  * atrás para todos los números entre n y 1. Ejemplo para n=10
 
